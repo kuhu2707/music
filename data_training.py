@@ -12,7 +12,7 @@ import cv2
 # In[6]:
 
 
-get_ipython().system('pip install tensorflow')
+# get_ipython().system('pip install tensorflow')
 from tensorflow.keras.utils import to_categorical
 
 
